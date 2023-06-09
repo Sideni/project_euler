@@ -1,6 +1,6 @@
 # Project Euler
 
-As I had learned C (around 2009-2010) by making small programs and by reproducing some 2D games, I decided to take on algorithm challenges. These challenges were presented as mathematical problems on [project Euler](https://projecteuler.net/). This repository presents the solutions to some of them.
+As I had learned C (around 2009-2010) by making small programs and by reproducing some 2D games, I decided to take on algorithm challenges (around 2012-2013). These challenges were presented as mathematical problems on [project Euler](https://projecteuler.net/). This repository presents the solutions to some of them.
 
 ## Problems
 
